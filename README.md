@@ -1,8 +1,9 @@
 # SnakeTool
+> TR
+
 İlk python tool'um. Basit fakat kullanmak isteyenler çekinmeden alabilir.
 Yeni başlayanlar için güzel bir örnek olabileceğini düşünüyorum.
 
-> TR
 
 # Kullanım
 ```
