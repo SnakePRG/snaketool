@@ -15,6 +15,7 @@ python baslat.py
 
 - Ortalama hesaplama
 - Hesap makinesi
+- Şifre oluşturucu
 - SnakePRG web sitesi
 - SnakePRG github adresi
 - Python diğer program
@@ -35,6 +36,7 @@ python start.py
 
 - Average calculation
 - Calculator
+- Password generator
 - SnakePRG website
 - SnakePRG github address
 - Python other program
