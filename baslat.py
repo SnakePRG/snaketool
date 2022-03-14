@@ -2,6 +2,8 @@ import time
 import webbrowser
 import random
 
+
+
 def sifreol():
     import random
  
