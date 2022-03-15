@@ -7,9 +7,11 @@ Yeni başlayanlar için güzel bir örnek olabileceğini düşünüyorum.
 
 # Kullanım
 ```
-python3 install https://github.com/snakeprg/snaketool
+$ sudo apt install git
 
-python baslat.py
+$ git clone https://github.com/snakeprg/snaketool
+
+$ python baslat.py
 ```
 # İçindekiler
 
