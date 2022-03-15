@@ -7,7 +7,7 @@ Yeni başlayanlar için güzel bir örnek olabileceğini düşünüyorum.
 
 # Kullanım
 ```
-pip install https://github.com/snakeprg/snaketool
+python3 install https://github.com/snakeprg/snaketool
 
 python baslat.py
 ```
